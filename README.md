@@ -6,11 +6,13 @@ A simple open-source program to mass-transfer files with specifying age, suffix,
 **FOR USING .exe VERSION**
 
 1. Open
-![explorer_qPqRvFV93b](https://github.com/pipTyrannical/transferFiles/assets/144415863/c53d308e-b59a-4d0a-9a78-19304552df44)
+![explorer_qPqRvFV93b](https://github.com/pipTyrannical/transferFiles/assets/144415863/53a2bf2f-8b63-4773-ad23-94809fa7a3ee)
+
 
 2. Self-Explanatory 
 * AS OF 9/11/2023, DOES NOT WORK WITH // FORMAT [i.e C://] ONLY C:\
-![file_transfer_3noh0ZcF6W](https://github.com/pipTyrannical/transferFiles/assets/144415863/7ae17e1f-d80a-490d-8a20-06782671efed)
+![file_transfer_3noh0ZcF6W](https://github.com/pipTyrannical/transferFiles/assets/144415863/317b948d-420d-4eb3-b83d-4e133a88061b)
+
 
 
 **FOR USING .py VERSION
