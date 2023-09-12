@@ -15,7 +15,7 @@ A simple open-source program to mass-transfer files with specifying age, suffix,
 
 
 
-**FOR USING .py VERSION
+**FOR USING .py VERSION**
 
 1. Just run the code after installing the requirements
 -> shutil, time, pathlib2, PyQT6
